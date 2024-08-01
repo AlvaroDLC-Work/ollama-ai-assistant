@@ -1,2 +1,2 @@
 ﻿# ollama-ai-assistant
- This app is inconstruction
+ This app is in construction
